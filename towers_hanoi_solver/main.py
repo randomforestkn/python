@@ -11,4 +11,4 @@ def foo(n, fr, to, spare):
         foo(n-1, spare, to, fr)
 
 
-foo(64,"b","a","c")
+foo(14,"b","a","c")
